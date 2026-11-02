@@ -1,4 +1,4 @@
-<img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/92bc6fa2-4018-4e1c-b6e0-e48fb2904363" /># Ex. No. 01  Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# Ex. No. 01  Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## Program Developed By:
 - **Name:** Srinivas J
@@ -204,37 +204,54 @@ plt.show()
 
 <img width="529" height="417" alt="download" src="https://github.com/user-attachments/assets/0694e379-8a92-4810-8408-4112cc466268" />
 
+
 <img width="562" height="380" alt="download" src="https://github.com/user-attachments/assets/a35874cb-9451-4544-a898-98be890a0ba5" />
+
 
 <img width="529" height="417" alt="download" src="https://github.com/user-attachments/assets/a338bcd7-cf13-48bb-babf-65e890e32131" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/c8c6a29f-4e45-44a4-bde5-3db937302b65" />
+
 
 <img width="548" height="418" alt="download" src="https://github.com/user-attachments/assets/7adedbc3-1e9b-49a5-b9b2-13769c48dfbf" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/9bcad5ec-2e59-4092-a7f2-a9836cbbf835" />
+
 
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/9214a6ab-58d6-4dba-a668-7fab39e47eac" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/2c6b8999-8eda-40ca-baaa-446f1c9806d1" />
+
 
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/d8fbc080-5e21-450b-896d-5c483e3083d5" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/0ffdd0ff-0aa9-41bb-b6d7-b576848d8926" />
+
 
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/cbe0452e-9673-4739-a512-32a2e8df2634" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/0df8eee3-22bb-4041-9767-1564cc368f00" />
+
 
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/2d965c59-065c-4312-a653-4f07c9bfeaa0" />
 
+
 <img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/1e74a165-501d-4b66-afff-e35a90a1408e" />
+
 
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/4998192c-b36e-4814-b664-0c8f88379956" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/7aa25a4c-7121-46b8-802f-8352d6824360" />
 
+
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/146d84b6-5ec4-4e7e-aac4-f057c6a8f41f" />
+
 
 <img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/268469e1-051c-4a53-813b-e26ae648e92d" />
 
